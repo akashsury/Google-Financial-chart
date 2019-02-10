@@ -1,0 +1,61 @@
+[ {
+    "year":"2002",
+    "revenue":"0.4",
+    "profit":"0.09"
+},{
+    "year":"2003",
+    "revenue":"1.5",
+    "profit":"0.1"
+},{
+    "year":"2004",
+    "revenue":"3.2",
+    "profit":"0.3"
+},{
+    "year":"2005",
+    "revenue":"6.1",
+    "profit":"1.465"
+},{
+    "year":"2006",
+    "revenue":"10.6",
+    "profit":"3.07"
+},{
+    "year":"2007",
+    "revenue":"16.6",
+    "profit":"4.2"
+},{
+    "year":"2008",
+    "revenue":"21.8",
+    "profit":"4.2"
+},{
+    "year":"2009",
+    "revenue":"23.7",
+    "profit":"6.52"
+},{
+    "year":"2010",
+    "revenue":"29.3",
+    "profit":"8.5"
+},{
+    "year":"2011",
+    "revenue":"37.9",
+    "profit":"9.7"
+},{
+    "year":"2012",
+    "revenue":"50.18",
+    "profit":"10.7"
+},{
+    "year":"2013",
+    "revenue":"55.51",
+    "profit":"10.7"
+},
+	{
+		"year": "2014",
+		"revenue": "65.67",
+		"profit": "12.7"
+	},
+	{
+		"year": "2015",
+		"revenue": "74.54",
+		"profit": "14.1"
+	}
+	
+]   
